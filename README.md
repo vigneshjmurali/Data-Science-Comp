@@ -6,4 +6,4 @@ Once I have developed, trained, tested, validated, and improved the predictive m
 
 My job is to fill in these missing variables for these new institutions using predictions derived from your predictive model.
 
-I got the predicted values error of 2.23 rmse with this project
+I got the predicted values error of 1.23 rmse with this project
